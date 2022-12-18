@@ -42,7 +42,6 @@ const bigInt = 9007199254740991n;//bigint literal
 </h11>
 </div>
 
-import { Callout } from 'nextra-theme-docs'
 
 <Callout type="info" emoji="ℹ️">
    For remmeber this you can simply remember this by using the acronym "SSBBNNU" for the primitive data types.
