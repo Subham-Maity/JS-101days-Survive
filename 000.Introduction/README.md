@@ -2,6 +2,8 @@
 
 ## 📚 History of JavaScript
 
+### Video -> https://www.youtube.com/shorts/7_LUNAhadPQ
+
 JavaScript was created by Brendan Eich in 1995 and was originally called LiveScript. It was developed for the Netscape Navigator web browser and was first implemented in that browser in 1995. In 1996, it was renamed to JavaScript because of the popularity of the Java language.
 
 The first version of JavaScript was called ECMAScript 1. The latest version is ECMAScript 2020. The planned new release (ES6) was codenamed ES Harmony. However, the name was changed to ES6 to avoid confusion with the Harmony project, which was a completely different project.
