@@ -1,1 +1,1 @@
-# Check here → https://codexam.vercel.app/docs/js
+# Check [here](https://codexam.vercel.app/docs/js)
