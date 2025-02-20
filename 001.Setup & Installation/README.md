@@ -29,7 +29,8 @@ You can put the `<script>` tag either in the `<head>` section of the page, or at
 
 Once you have your JavaScript code in a web page, you can open the page in a web browser to run the code.
 
-![example](https://github.com/Subham-Maity/JS-101days-Survive/blob/main/001.%20Setup%20&%20Installation/picndvid_xam/1.png?raw=true)
+![example](https://github.com/Subham-Maity/JS-101days-Survive/blob/main/001.0Setup%20&%20Installation/picndvid_xam/1.png?raw=true)
+![example](https://github.com/Subham-Maity/JS-101days-Survive/blob/main/001.Setup%20%26%20Installation/picndvid_xam/1.png)
 
 2.  Browser Console
 
